@@ -150,17 +150,17 @@ FileExtensions:
 - yaml
 - yml
 - zsh
-ReleaseDate: 2025-08-07
+ReleaseDate: 2025-09-19
 Installers:
 - Architecture: x64
   Scope: user
-  InstallerUrl: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-0.1.16.3801649-9584b68f.exe
-  InstallerSha256: BC908694A0B3BAE143CC0945C10C1B75CE1C26C922A19B6A63E508FAD280239E
+  InstallerUrl: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-0.2.4.7567294-9c12ed6c.exe
+  InstallerSha256: BEF32094715DA4F9830572194DF2B38A1FD9A32B62C0F6CE256E80444087340B
   ProductCode: '{CC6B787D-37A0-49E8-AE24-8559A032BE0C}_is1'
 - Architecture: x64
   Scope: machine
-  InstallerUrl: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-system/CodeBuddy-win32-x64-system-0.1.16.3801649-9584b68f.exe
-  InstallerSha256: 55D8E8DCA26230DDDA8088E753DB33C60FF4447838248AFB8E3ECC83341C42B4
+  InstallerUrl: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-system/CodeBuddy-win32-x64-system-0.2.4.7567294-9c12ed6c.exe
+  InstallerSha256: 307494DCB7BAC23588BE66D22E758B6C3E68ACDA3B96C0F583358B8AD288E53A
   ProductCode: '{D77B7E06-80BA-4137-BCF4-654B95CCEBC5}_is1'
 ManifestType: installer
 ManifestVersion: 1.10.0
